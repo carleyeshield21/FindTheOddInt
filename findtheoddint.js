@@ -1,3 +1,5 @@
+//This is the link to this JavaScript Challenge
+// https://www.codewars.com/kata/54da5a58ea159efa38000836/train/javascript
 function findOdd(A) {
   arr1 = []
   for(i=0; i<=A.length-1; i++){
